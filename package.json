@@ -1,5 +1,5 @@
 {
-  "name": "@reonomy/react-confetti-explosion",
+  "name": "react-confetti-explosion",
   "version": "1.0.3",
   "description": "A lightweight css-animation based confetti exploder for React",
   "main": "./lib/index.js",
